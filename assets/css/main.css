@@ -3715,3 +3715,7 @@
   height: 0;
   clear: both;
 	}
+
+	strong {
+		color: green;
+	}
