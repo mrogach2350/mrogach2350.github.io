@@ -3701,3 +3701,17 @@
 		}
 
 	}
+
+	.left {
+		float: left;
+	}
+	.right {
+		float: right;
+	}
+	.clearfix:after {
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+	}
